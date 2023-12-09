@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "letter_combination_of_phone_number", "letter_combination_of_phone_number\letter_combination_of_phone_number.pyproj", "{BEE0D624-73DB-443A-9875-28BE9D52ACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE0D624-73DB-443A-9875-28BE9D52ACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE0D624-73DB-443A-9875-28BE9D52ACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230E430E-9283-4AF8-9FD4-3121FDC83DDF}
+	EndGlobalSection
+EndGlobal
